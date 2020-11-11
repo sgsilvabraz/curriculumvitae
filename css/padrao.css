@@ -1,0 +1,53 @@
+body{
+    float: center;
+    font-family: 'Consolas', Courier New, Courier, monospace;
+    font-size: 14px;
+    max-width: 210mm;
+    margin: auto;
+}
+h1{
+   line-height: 0.5; 
+   text-align: center;
+}
+h2 {
+    margin: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    background-color: rgb(245, 245, 245);
+    text-align: left;
+}
+p{
+    margin: 0px;
+}
+
+table, th, td{
+    border: 1px solid rgb(134, 134, 134);
+    border-style: dotted;
+    border-collapse: collapse;
+    padding: 0px;
+    padding-left: 10px;
+    padding-right: 5px;
+    width: 210mm;
+}
+.firstcollumn1 {
+    width: 200px;
+    text-align: left;
+}
+
+.firstcollumn2 {
+    width: 200px;
+    text-align: center;
+    vertical-align: text-top;
+}
+
+.firstcollumn3 {
+    width: 200px;
+    text-align: left;
+}
+
+.firstcollumn4 {
+    width: 200px;
+    text-align: Center;
+}
+
