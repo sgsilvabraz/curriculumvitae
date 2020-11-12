@@ -1,7 +1,7 @@
 body{
     float: center;
     font-family: 'Consolas', Courier New, Courier, monospace;
-    max-width: 210mm;
+    width: 210mm;
     margin: auto;
 }
 h1{
@@ -52,4 +52,3 @@ table, th, td{
     width: 200px;
     text-align: Center;
 }
-
