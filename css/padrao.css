@@ -1,8 +1,13 @@
+@font-face{
+    font-family: OwnConsolas;
+    src: url(../consolas.ttf);
+}
+
 body{
     float: center;
-    font-family: 'Consolas', Courier New, Courier, monospace;
     width: 210mm;
     margin: auto;
+    font-family: OwnConsolas;
 }
 h1{
    line-height: 0.5; 
