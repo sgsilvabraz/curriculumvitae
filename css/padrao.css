@@ -1,13 +1,13 @@
 body{
     float: center;
     font-family: 'Consolas', Courier New, Courier, monospace;
-    font-size: 16px;
     max-width: 210mm;
     margin: auto;
 }
 h1{
    line-height: 0.5; 
    text-align: center;
+   font-size: 18px;
 }
 h2 {
     margin: 0;
@@ -16,12 +16,13 @@ h2 {
     padding-left: 10px;
     background-color: rgb(245, 245, 245);
     text-align: left;
+    font-size: 16px;
 }
 p{
     margin: 0px;
 }
 
-table {
+table, th, td{
     border: 1px solid rgb(134, 134, 134);
     border-style: dotted;
     border-collapse: collapse;
@@ -29,6 +30,7 @@ table {
     padding-left: 10px;
     padding-right: 5px;
     width: 210mm;
+    font-size: 12px;
 }
 .firstcollumn1 {
     width: 200px;
